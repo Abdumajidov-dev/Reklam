@@ -1,0 +1,4 @@
+telethon
+aiogram==3.*
+apscheduler
+python-dotenv

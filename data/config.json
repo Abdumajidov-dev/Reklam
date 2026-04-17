@@ -1,0 +1,16 @@
+{
+  "groups": [],
+  "schedule": {
+    "enabled": false,
+    "interval_hours": 6,
+    "start_time": "09:00"
+  },
+  "message": {
+    "text": "",
+    "media_path": null
+  },
+  "settings": {
+    "pause_min": 10,
+    "pause_max": 30
+  }
+}

@@ -297,6 +297,26 @@ FakesAssemblies/
 # GhostDoc plugin setting file
 *.GhostDoc.xml
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Telegram session files
+session/*.session
+session/*.session-journal
+
+# Bot secrets
+.env
+
+# Logs
+logs/*.log
+
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
 node_modules/
